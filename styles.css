@@ -34,7 +34,7 @@ footer{
   text-align: left;
   background-color:none;
   padding: 20px;
-  color: ghostwhite;
+  color: var(--bg-color);;
   font-size: 20px;
   border:2px solid ghostwhite;
   border-radius: 20px;
