@@ -90,17 +90,13 @@ img{
 }
 .loveletter{
   width: 80%;
-  border:none;
+  border:1px solid ghostwhite;
   height: 300px;
   border-radius: 30px;
-  background-color: lightyellow;
+  background-color:none;
   font-family: Cursive;
   padding: 10px;
   filter: blur(3px);
-}
-.loveletter:hover{
-  filter: blur(0px);
-  transition: 3s;
 }
 a{
   color: hotpink;
