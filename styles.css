@@ -32,10 +32,11 @@ footer{
   margin:0px;
   width: 80%;
   text-align: left;
-  background-color: lightgoldenrodyellow;
+  background-color:none;
   padding: 20px;
   color: var(--bg-color);
   font-size: 20px;
+  border:2px solid ghostwhite;
   border-radius: 20px;
  font-family: sans-serif;
 }
@@ -87,16 +88,6 @@ img{
 }
 #remember{
   text-align: left;
-}
-.loveletter{
-  width: 80%;
-  border:1px solid ghostwhite;
-  height: 300px;
-  border-radius: 30px;
-  background-color:none;
-  font-family: Cursive;
-  padding: 10px;
-  filter: blur(3px);
 }
 a{
   color: hotpink;
