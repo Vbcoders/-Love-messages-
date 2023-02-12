@@ -8,6 +8,10 @@
   --txt-color: #444;
   --heart-color: rgb(252, 8, 231);
 }
+#remember{
+  color: var(--bg-color);
+  text-align: center;
+}
 footer{
   color: whitesmoke;
   text-align: center;
@@ -19,32 +23,33 @@ footer{
   margin: 0px auto;
 }
 .left{
-  text-align: right;
+  text-align:center;
+  font-family: Cursive;
+  font-style: bold;
+  font-weight: 20%;
 }
 .ltr{
   margin:0px;
   width: 80%;
   text-align: left;
-  background-color: ghostwhite;
+  background-color: lightgoldenrodyellow;
   padding: 20px;
-  color:black;
+  color: var(--bg-color);
+  font-size: 20px;
   border-radius: 20px;
-  box-shadow: 1px 1px 10px deeppink;
+ font-family: sans-serif;
 }
 .wish{
   color: white;
   font-size: 10px;
 }
 ul{
-  width: 100%;
-  text-align: left;
+  width:90%;
+  margin-right:50px;
 }
 li{
-  font-size: 10px;
-  color:white;
-}
-li,ul{
-  margin: 10px;
+  font-size:20px;
+  color:var(--bg-color);
 }
 h3{
   color: deeppink;
@@ -170,7 +175,7 @@ body{
 }
 .heart {
   position: absolute;
-  top: 210%;
+  top: 310%;
   left: 50%;
   width: 15px;
   height: 15px;
