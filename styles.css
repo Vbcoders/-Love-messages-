@@ -32,11 +32,11 @@ footer{
   margin:0px;
   width: 80%;
   text-align: left;
-  background-color:none;
+  background-color:lightgoldenrodyellow;
   padding: 20px;
-  color: var(--bg-color);;
+  color: var(--bg-color);
   font-size: 20px;
-  border:2px solid ghostwhite;
+   border:none;
   border-radius: 20px;
  font-family: sans-serif;
 }
