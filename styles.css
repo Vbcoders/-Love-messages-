@@ -116,6 +116,10 @@ body{
   display:relative;
   align-items: center;
   justify-content: center;
+  background:url("https://images.pexels.com/photos/704748/pexels-photo-704748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-image: cover;
+  background-size: 380px;
+  background-repeat: repeat-y;
 }
 .container {
   height: 90vh;
