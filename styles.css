@@ -8,6 +8,12 @@
   --txt-color: #444;
   --heart-color: rgb(252, 8, 231);
 }
+b{
+  font-family: Cursive;
+  color: red;
+  font-size: 20px;
+  text-shadow: 1px 1px 2px hotpink;
+}
 #remember{
   color: var(--bg-color);
   text-align: center;
@@ -35,11 +41,11 @@ footer{
   background-color:var(--primary);
   padding: 20px;
   color: var(--bg-color);
-  font-size: 20px;
+  font-size: 15px;
    border:none;
   border-radius: 20px;
- font-family: sans-serif;
-text-shadow: 1px 1px 1px black;
+ font-family: Sofia;
+text-shadow: ;
 }
 .wish{
   color: white;
@@ -50,7 +56,7 @@ ul{
   margin-right:50px;
 }
 li{
-  font-size:20px;
+  font-size:15px;
   color:var(--bg-color);
 }
 h3{
