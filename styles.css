@@ -34,12 +34,12 @@ footer{
   text-align: left;
   background-color:var(--primary);
   padding: 20px;
-  color: hotpink;
+  color: var(--bg-color);
   font-size: 20px;
    border:none;
   border-radius: 20px;
  font-family: sans-serif;
-text-shadow: 1px 1px 2px hotpink;
+text-shadow: 1px 1px 2px black;
 }
 .wish{
   color: white;
